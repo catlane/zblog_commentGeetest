@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>commentGeetest</id>
+<name>评论/登陆极验证码</name>
+<url>https://www.lovyou.top/post/146.html</url>
+<note>评论/登陆极验证插件</note>
+<description>采用极验证，不仅页面优美，而且更加安全，可以有效防止灌水，该插件第一版本已出，会持续完善，如有需求请到博客留言。修复因为使用$zbp-&gt;load()导致添加页面按钮消失。将登陆和评论验证码整合到一起。</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>猫巷</name>
+  <email>catlane@foxmail.com</email>
+  <url>https://www.lovyou.top</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151935</adapted>
+<version>1.4</version>
+<pubdate>2018-11-27</pubdate>
+<modified>2019-01-08</modified>
+<price>0</price>
+<phpver>5.6</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>
